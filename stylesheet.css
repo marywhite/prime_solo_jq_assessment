@@ -12,6 +12,14 @@ h1:hover {
 	color: #DDDDDD;
 }
 
+h3 {
+	color: #DDDDDD;
+}
+
+h3:hover {
+	color: black;
+}
+
 .selected {
 	background-color: #FF704D;
 }
@@ -23,7 +31,7 @@ h1:hover {
 
 .newEntry {
 	margin: .5em;
-	border: thin dashed;
+	border: thin dashed #575757;
 }
 
 button {
@@ -35,5 +43,6 @@ button {
 	width: 10%;
 	height: auto;
 }
+
 
 
