@@ -3,9 +3,37 @@ body {
 	text-align: center;
 }
 
+h1 {
+	color: #FF704D;
+	margin-bottom: 0em;
+}
+
+h1:hover {
+	color: #DDDDDD;
+}
+
 .selected {
 	background-color: #FF704D;
 }
 
+#container {
+	width: 30%;
+	margin: 1em auto;
+}
+
+.newEntry {
+	margin: .5em;
+	border: thin dashed;
+}
+
+button {
+	margin: .5em;
+}
+
+#tennis {
+	margin: 0em auto;
+	width: 10%;
+	height: auto;
+}
 
 
