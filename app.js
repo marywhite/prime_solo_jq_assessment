@@ -18,7 +18,7 @@ $(document).ready(function (){
 		$(this).parent().fadeOut("600");
 	});
 	
-	$("#tennis").mouseenter.(function(){
+	$("#tennis").mouseenter(function(){
 		$("h1").text("hi");
 	});
 });
